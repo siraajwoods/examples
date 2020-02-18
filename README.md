@@ -23,5 +23,7 @@ The `fib` example contains configuration of Doxygen (`fib/Doxygfile`) and Netlif
 that automatically build doxygen (using `cd fib && make doc`), and publish the generated document
 to [https://ou-cs3560-f19-examples.netlify.com/](https://ou-cs3560-f19-examples.netlify.com/).
 
+## More!
+
 In addition, this repo is also used for students to practice git pull requests!
 - Addition by John Denard, jd813816@ohio.edu
